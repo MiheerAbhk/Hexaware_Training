@@ -19,6 +19,7 @@ ORDER BY CUSTOMERS.customer_id, TRANSACTIONS.transaction_date;
 UPDATE ACCOUNTS
 SET balance = balance + 500
 WHERE account_id = 1;
+SELECT * FROM ACCOUNTS WHERE account_id = 1
 
 --4.Write a SQL query to Combine first and last names of customers as a full_name.--
 
