@@ -1,3 +1,5 @@
+--Code Challege - Car Rental System --
+
 CREATE DATABASE CarRentalSystem
 USE CarRentalSystem
 
@@ -78,6 +80,9 @@ INSERT INTO Lease VALUES
 (8, 8, 8, '2023-08-12', '2023-08-15', 'Monthly'),
 (9, 3, 3, '2023-09-07', '2023-09-10', 'Daily'),
 (10, 10, 10, '2023-10-10', '2023-10-31', 'Monthly')
+
+INSERT INTO Lease VALUES 
+(12, 7, 3, '2025-03-01' , '2025-04-01', 'Monthly') -- added explicitly to get a result in further query
 
 SELECT * FROM Lease
 
