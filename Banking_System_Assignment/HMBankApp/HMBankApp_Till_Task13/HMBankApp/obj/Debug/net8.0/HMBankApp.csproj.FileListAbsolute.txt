@@ -1,0 +1,45 @@
+C:\Users\ASUS\Desktop\All Coding\Hexaware_Training\Banking_System_Assignment\HMBankApp\HMBankApp\bin\Debug\net8.0\HMBankApp.exe
+C:\Users\ASUS\Desktop\All Coding\Hexaware_Training\Banking_System_Assignment\HMBankApp\HMBankApp\bin\Debug\net8.0\HMBankApp.deps.json
+C:\Users\ASUS\Desktop\All Coding\Hexaware_Training\Banking_System_Assignment\HMBankApp\HMBankApp\bin\Debug\net8.0\HMBankApp.runtimeconfig.json
+C:\Users\ASUS\Desktop\All Coding\Hexaware_Training\Banking_System_Assignment\HMBankApp\HMBankApp\bin\Debug\net8.0\HMBankApp.dll
+C:\Users\ASUS\Desktop\All Coding\Hexaware_Training\Banking_System_Assignment\HMBankApp\HMBankApp\bin\Debug\net8.0\HMBankApp.pdb
+C:\Users\ASUS\Desktop\All Coding\Hexaware_Training\Banking_System_Assignment\HMBankApp\HMBankApp\obj\Debug\net8.0\HMBankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\All Coding\Hexaware_Training\Banking_System_Assignment\HMBankApp\HMBankApp\obj\Debug\net8.0\HMBankApp.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\All Coding\Hexaware_Training\Banking_System_Assignment\HMBankApp\HMBankApp\obj\Debug\net8.0\HMBankApp.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\All Coding\Hexaware_Training\Banking_System_Assignment\HMBankApp\HMBankApp\obj\Debug\net8.0\HMBankApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\All Coding\Hexaware_Training\Banking_System_Assignment\HMBankApp\HMBankApp\obj\Debug\net8.0\HMBankApp.sourcelink.json
+C:\Users\ASUS\Desktop\All Coding\Hexaware_Training\Banking_System_Assignment\HMBankApp\HMBankApp\obj\Debug\net8.0\HMBankApp.dll
+C:\Users\ASUS\Desktop\All Coding\Hexaware_Training\Banking_System_Assignment\HMBankApp\HMBankApp\obj\Debug\net8.0\refint\HMBankApp.dll
+C:\Users\ASUS\Desktop\All Coding\Hexaware_Training\Banking_System_Assignment\HMBankApp\HMBankApp\obj\Debug\net8.0\HMBankApp.pdb
+C:\Users\ASUS\Desktop\All Coding\Hexaware_Training\Banking_System_Assignment\HMBankApp\HMBankApp\obj\Debug\net8.0\HMBankApp.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\All Coding\Hexaware_Training\Banking_System_Assignment\HMBankApp\HMBankApp\obj\Debug\net8.0\ref\HMBankApp.dll
+C:\Users\ASUS\Desktop\All Coding\Hexaware_Training\Banking_System_Assignment\HMBankApp\HMBankApp\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\All Coding\Hexaware_Training\Banking_System_Assignment\HMBankApp\HMBankApp\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Desktop\All Coding\Hexaware_Training\Banking_System_Assignment\HMBankApp\HMBankApp\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Desktop\All Coding\Hexaware_Training\Banking_System_Assignment\HMBankApp\HMBankApp\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Desktop\All Coding\Hexaware_Training\Banking_System_Assignment\HMBankApp\HMBankApp\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\All Coding\Hexaware_Training\Banking_System_Assignment\HMBankApp\HMBankApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\All Coding\Hexaware_Training\Banking_System_Assignment\HMBankApp\HMBankApp\obj\Debug\net8.0\HMBankApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\All Coding\Hexaware_Training\Banking_System_Assignment\HMBankApp\HMBankApp\obj\Debug\net8.0\HMBankApp.csproj.Up2Date
+C:\Users\ASUS\Desktop\Assign_Backup\HMBankApp_Till_Task13\HMBankApp\bin\Debug\net8.0\HMBankApp.exe
+C:\Users\ASUS\Desktop\Assign_Backup\HMBankApp_Till_Task13\HMBankApp\bin\Debug\net8.0\HMBankApp.deps.json
+C:\Users\ASUS\Desktop\Assign_Backup\HMBankApp_Till_Task13\HMBankApp\bin\Debug\net8.0\HMBankApp.runtimeconfig.json
+C:\Users\ASUS\Desktop\Assign_Backup\HMBankApp_Till_Task13\HMBankApp\bin\Debug\net8.0\HMBankApp.dll
+C:\Users\ASUS\Desktop\Assign_Backup\HMBankApp_Till_Task13\HMBankApp\bin\Debug\net8.0\HMBankApp.pdb
+C:\Users\ASUS\Desktop\Assign_Backup\HMBankApp_Till_Task13\HMBankApp\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\Assign_Backup\HMBankApp_Till_Task13\HMBankApp\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Desktop\Assign_Backup\HMBankApp_Till_Task13\HMBankApp\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Desktop\Assign_Backup\HMBankApp_Till_Task13\HMBankApp\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Desktop\Assign_Backup\HMBankApp_Till_Task13\HMBankApp\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\Assign_Backup\HMBankApp_Till_Task13\HMBankApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\Assign_Backup\HMBankApp_Till_Task13\HMBankApp\obj\Debug\net8.0\HMBankApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Assign_Backup\HMBankApp_Till_Task13\HMBankApp\obj\Debug\net8.0\HMBankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Assign_Backup\HMBankApp_Till_Task13\HMBankApp\obj\Debug\net8.0\HMBankApp.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Assign_Backup\HMBankApp_Till_Task13\HMBankApp\obj\Debug\net8.0\HMBankApp.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Assign_Backup\HMBankApp_Till_Task13\HMBankApp\obj\Debug\net8.0\HMBankApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Assign_Backup\HMBankApp_Till_Task13\HMBankApp\obj\Debug\net8.0\HMBankApp.csproj.Up2Date
+C:\Users\ASUS\Desktop\Assign_Backup\HMBankApp_Till_Task13\HMBankApp\obj\Debug\net8.0\HMBankApp.dll
+C:\Users\ASUS\Desktop\Assign_Backup\HMBankApp_Till_Task13\HMBankApp\obj\Debug\net8.0\refint\HMBankApp.dll
+C:\Users\ASUS\Desktop\Assign_Backup\HMBankApp_Till_Task13\HMBankApp\obj\Debug\net8.0\HMBankApp.pdb
+C:\Users\ASUS\Desktop\Assign_Backup\HMBankApp_Till_Task13\HMBankApp\obj\Debug\net8.0\HMBankApp.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Assign_Backup\HMBankApp_Till_Task13\HMBankApp\obj\Debug\net8.0\ref\HMBankApp.dll
