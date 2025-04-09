@@ -41,3 +41,4 @@ CREATE TABLE Payment (
 SELECT * FROM Policy
 SELECT * FROM Payment
 SELECT * FROM Client
+SELECT * FROM Claim

@@ -21,14 +21,12 @@ namespace InsuranceManagement.entity
             DateFiled = dateFiled;
             ClaimAmount = claimAmount;
             Status = status;
-            //Policy = policy;
-            //Client = client;
+
         }
 
         public override string ToString()
         {
-            return $"Claim ID: {ClaimId}, Number: {ClaimNumber}, Amount: {ClaimAmount}, Date: {DateFiled}, Status: {Status}, " +
-                   $"Policy ID: {Policy?.PolicyId}, Client ID: {Client?.ClientId}";
+            return $"Claim ID: {ClaimId}, Number: {ClaimNumber}, Amount: {ClaimAmount}, Date: {DateFiled}, Status: {Status}";
         }
     }
 }

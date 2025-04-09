@@ -120,8 +120,14 @@ namespace InsuranceManagementSystem.mainmod
                             Console.Write("Enter Claim ID: ");
                             int claimId = int.Parse(Console.ReadLine());
 
+                            Console.Write("Enter Claim Number: ");
+                            int claimNumber = int.Parse(Console.ReadLine());
+
                             Console.Write("Enter Policy ID: ");
                             int policyId = int.Parse(Console.ReadLine());
+
+                            Console.Write("Enter Client ID: ");
+                            int clId = int.Parse(Console.ReadLine());
 
                             Console.Write("Enter Claim Date (yyyy-mm-dd): ");
                             DateTime claimDate = DateTime.Parse(Console.ReadLine());
@@ -129,10 +135,25 @@ namespace InsuranceManagementSystem.mainmod
                             Console.Write("Enter Claim Amount: ");
                             double claimAmount = double.Parse(Console.ReadLine());
 
-                            Console.Write("Enter Claim Description: ");
-                            string description = Console.ReadLine();
+                            Console.Write("Enter Claim Status: ");
+                            string status = Console.ReadLine();
 
-                            MyClaim claim = new MyClaim(claimId, policyId, claimDate, claimAmount, description);
+                            
+                            Policy policy = ((PolicyServiceImpl)policyService).GetPolicy(policyId);
+                            Client cl = new Client { ClientId = clId }; 
+
+                           
+                            MyClaim claim = new MyClaim
+                            {
+                                ClaimId = claimId,
+                                ClaimNumber = claimNumber,
+                                DateFiled = claimDate,
+                                ClaimAmount = claimAmount,
+                                Status = status,
+                                Policy = policy,
+                                Client = cl
+                            };
+
                             if (((PolicyServiceImpl)policyService).FileClaim(claim))
                             {
                                 Console.WriteLine("Claim filed successfully.");
@@ -142,6 +163,7 @@ namespace InsuranceManagementSystem.mainmod
                                 Console.WriteLine("Failed to file claim.");
                             }
                             break;
+
 
                         case "7":
                             Console.WriteLine("Exiting...");
