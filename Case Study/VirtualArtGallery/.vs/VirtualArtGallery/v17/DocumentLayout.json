@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\All Coding\\Hexaware_Training\\Case Study\\VirtualArtGallery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC6D392-5231-4667-9712-F22C5A77D5BD}|VirtualArtGallery\\VirtualArtGallery.csproj|c:\\users\\asus\\desktop\\all coding\\hexaware_training\\case study\\virtualartgallery\\virtualartgallery\\virtualartgallery.tests\\artworktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC6D392-5231-4667-9712-F22C5A77D5BD}|VirtualArtGallery\\VirtualArtGallery.csproj|solutionrelative:virtualartgallery\\virtualartgallery.tests\\artworktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC6D392-5231-4667-9712-F22C5A77D5BD}|VirtualArtGallery\\VirtualArtGallery.csproj|c:\\users\\asus\\desktop\\all coding\\hexaware_training\\case study\\virtualartgallery\\virtualartgallery\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC6D392-5231-4667-9712-F22C5A77D5BD}|VirtualArtGallery\\VirtualArtGallery.csproj|solutionrelative:virtualartgallery\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC6D392-5231-4667-9712-F22C5A77D5BD}|VirtualArtGallery\\VirtualArtGallery.csproj|c:\\users\\asus\\desktop\\all coding\\hexaware_training\\case study\\virtualartgallery\\virtualartgallery\\dao\\ivirtualartgallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC6D392-5231-4667-9712-F22C5A77D5BD}|VirtualArtGallery\\VirtualArtGallery.csproj|solutionrelative:virtualartgallery\\dao\\ivirtualartgallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC6D392-5231-4667-9712-F22C5A77D5BD}|VirtualArtGallery\\VirtualArtGallery.csproj|c:\\users\\asus\\desktop\\all coding\\hexaware_training\\case study\\virtualartgallery\\virtualartgallery\\dao\\virtualartgalleryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC6D392-5231-4667-9712-F22C5A77D5BD}|VirtualArtGallery\\VirtualArtGallery.csproj|solutionrelative:virtualartgallery\\dao\\virtualartgalleryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC6D392-5231-4667-9712-F22C5A77D5BD}|VirtualArtGallery\\VirtualArtGallery.csproj|c:\\users\\asus\\desktop\\all coding\\hexaware_training\\case study\\virtualartgallery\\virtualartgallery\\entity\\artwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC6D392-5231-4667-9712-F22C5A77D5BD}|VirtualArtGallery\\VirtualArtGallery.csproj|solutionrelative:virtualartgallery\\entity\\artwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC6D392-5231-4667-9712-F22C5A77D5BD}|VirtualArtGallery\\VirtualArtGallery.csproj|c:\\users\\asus\\desktop\\all coding\\hexaware_training\\case study\\virtualartgallery\\virtualartgallery\\util\\dbconnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC6D392-5231-4667-9712-F22C5A77D5BD}|VirtualArtGallery\\VirtualArtGallery.csproj|solutionrelative:virtualartgallery\\util\\dbconnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC6D392-5231-4667-9712-F22C5A77D5BD}|VirtualArtGallery\\VirtualArtGallery.csproj|c:\\users\\asus\\desktop\\all coding\\hexaware_training\\case study\\virtualartgallery\\virtualartgallery\\util\\dbpropertyutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC6D392-5231-4667-9712-F22C5A77D5BD}|VirtualArtGallery\\VirtualArtGallery.csproj|solutionrelative:virtualartgallery\\util\\dbpropertyutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC6D392-5231-4667-9712-F22C5A77D5BD}|VirtualArtGallery\\VirtualArtGallery.csproj|c:\\users\\asus\\desktop\\all coding\\hexaware_training\\case study\\virtualartgallery\\virtualartgallery\\exceptions\\artworknotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC6D392-5231-4667-9712-F22C5A77D5BD}|VirtualArtGallery\\VirtualArtGallery.csproj|solutionrelative:virtualartgallery\\exceptions\\artworknotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArtworkTest.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\Hexaware_Training\\Case Study\\VirtualArtGallery\\VirtualArtGallery\\VirtualArtGallery.Tests\\ArtworkTest.cs",
+              "RelativeDocumentMoniker": "VirtualArtGallery\\VirtualArtGallery.Tests\\ArtworkTest.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\Hexaware_Training\\Case Study\\VirtualArtGallery\\VirtualArtGallery\\VirtualArtGallery.Tests\\ArtworkTest.cs",
+              "RelativeToolTip": "VirtualArtGallery\\VirtualArtGallery.Tests\\ArtworkTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:27:56.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArtWorkNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\Hexaware_Training\\Case Study\\VirtualArtGallery\\VirtualArtGallery\\exceptions\\ArtWorkNotFoundException.cs",
+              "RelativeDocumentMoniker": "VirtualArtGallery\\exceptions\\ArtWorkNotFoundException.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\Hexaware_Training\\Case Study\\VirtualArtGallery\\VirtualArtGallery\\exceptions\\ArtWorkNotFoundException.cs",
+              "RelativeToolTip": "VirtualArtGallery\\exceptions\\ArtWorkNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T15:39:55.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBConnUtil.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\Hexaware_Training\\Case Study\\VirtualArtGallery\\VirtualArtGallery\\util\\DBConnUtil.cs",
+              "RelativeDocumentMoniker": "VirtualArtGallery\\util\\DBConnUtil.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\Hexaware_Training\\Case Study\\VirtualArtGallery\\VirtualArtGallery\\util\\DBConnUtil.cs",
+              "RelativeToolTip": "VirtualArtGallery\\util\\DBConnUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T15:24:04.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBPropertyUtil.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\Hexaware_Training\\Case Study\\VirtualArtGallery\\VirtualArtGallery\\util\\DBPropertyUtil.cs",
+              "RelativeDocumentMoniker": "VirtualArtGallery\\util\\DBPropertyUtil.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\Hexaware_Training\\Case Study\\VirtualArtGallery\\VirtualArtGallery\\util\\DBPropertyUtil.cs",
+              "RelativeToolTip": "VirtualArtGallery\\util\\DBPropertyUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T15:20:46.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\Hexaware_Training\\Case Study\\VirtualArtGallery\\VirtualArtGallery\\main\\Program.cs",
+              "RelativeDocumentMoniker": "VirtualArtGallery\\main\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\Hexaware_Training\\Case Study\\VirtualArtGallery\\VirtualArtGallery\\main\\Program.cs",
+              "RelativeToolTip": "VirtualArtGallery\\main\\Program.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAwGIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:09:20.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IVirtualArtGallery.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\Hexaware_Training\\Case Study\\VirtualArtGallery\\VirtualArtGallery\\dao\\IVirtualArtGallery.cs",
+              "RelativeDocumentMoniker": "VirtualArtGallery\\dao\\IVirtualArtGallery.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\Hexaware_Training\\Case Study\\VirtualArtGallery\\VirtualArtGallery\\dao\\IVirtualArtGallery.cs",
+              "RelativeToolTip": "VirtualArtGallery\\dao\\IVirtualArtGallery.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:57:28.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VirtualArtGalleryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\Hexaware_Training\\Case Study\\VirtualArtGallery\\VirtualArtGallery\\dao\\VirtualArtGalleryImpl.cs",
+              "RelativeDocumentMoniker": "VirtualArtGallery\\dao\\VirtualArtGalleryImpl.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\Hexaware_Training\\Case Study\\VirtualArtGallery\\VirtualArtGallery\\dao\\VirtualArtGalleryImpl.cs",
+              "RelativeToolTip": "VirtualArtGallery\\dao\\VirtualArtGalleryImpl.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwCQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:14:43.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Artwork.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\All Coding\\Hexaware_Training\\Case Study\\VirtualArtGallery\\VirtualArtGallery\\entity\\Artwork.cs",
+              "RelativeDocumentMoniker": "VirtualArtGallery\\entity\\Artwork.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\All Coding\\Hexaware_Training\\Case Study\\VirtualArtGallery\\VirtualArtGallery\\entity\\Artwork.cs",
+              "RelativeToolTip": "VirtualArtGallery\\entity\\Artwork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:15:03.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
