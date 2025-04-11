@@ -38,6 +38,7 @@ namespace VirtualArtGallery.tests
         [Test]
         public void UpdateArtwork_ShouldModifyArtworkDetails()
         {
+            int artworkID = 2;
             var artwork = new Artwork
             {
                 Title = "Starry Night (Edited)",
@@ -49,22 +50,22 @@ namespace VirtualArtGallery.tests
                 GalleryID = 1
             };
 
-            bool result = _service.UpdateArtwork(artwork);
+            bool result = _service.UpdateArtwork(artworkID, artwork);
             Assert.IsTrue(result, "Artwork should be updated");
         }
 
         [Test]
         public void DeleteArtwork_ShouldRemoveArtwork()
         {
-            int artworkId = 1; // assumes artwork with ID 1 exists
-            bool result = _service.DeleteArtwork(artworkId);
+            int artworkId = 1;
+            bool result = _service.RemoveArtwork(artworkId);
             Assert.IsTrue(result, "Artwork should be deleted");
         }
 
         [Test]
         public void SearchArtwork_ShouldReturnMatchingResults()
         {
-            List<Artwork> results = _service.SearchArtworks("Starry");
+            List<Artwork> results = _service.SearchArtworks("sample");
             Assert.IsNotNull(results);
             Assert.IsTrue(results.Count > 0, "Search should return at least one artwork");
         }
